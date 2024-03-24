@@ -15,7 +15,7 @@ This project is a comprehensive data engineering solution designed to automate t
 ![Banner Image](https://raw.githubusercontent.com/CD-AC/DataEnginner-Youtube_Statistics/main/Architecture.png)
 
 # Data Visualization with Power BI
-
+![Banner Image](https://raw.githubusercontent.com/CD-AC/DataEnginner-Youtube_Statistics/main/YouTubeStatsPBI.jpg)
 # Features
 - Automated Data Collection: Automatically retrieves YouTube channel IDs from a CSV file stored in Amazon S3, enabling seamless data ingestion.
 - Serverless Execution: Utilizes AWS EventBridge and Lambda functions for efficient, event-driven processing of YouTube API queries.
